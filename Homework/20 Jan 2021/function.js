@@ -1,4 +1,5 @@
-let a = parseFloat(prompt("Enter a number for the table"));
+let a = pa
+rseFloat(prompt("Enter a number for the table"));
 
 function mul(a) {
 	document.write("The table of"+a+"is");
@@ -7,4 +8,6 @@ function mul(a) {
 	document.write("<br>");
 }
 }
-mul(a);
+setTimeout(
+	document.write("1 second later");
+	1000);

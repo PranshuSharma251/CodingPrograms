@@ -19,5 +19,5 @@ document.write("<br>");
 document.write("The remainder after division is"+rem);
 document.write("<br>");
 
-document.write("a and b are equal:"+(a===b));
-document.write("a and b are not equal"+(a!==b));
+document.write("a and b are equal: "+(a===b));
+document.write("a and b are not equal "+(a!==b));
