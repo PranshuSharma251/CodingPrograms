@@ -3,5 +3,7 @@ function yet(argument) {
 	document.write(a)
 	document.write("<br>")
 	const newa = a -1
-	if (newa )
+	if (newa < 0){
+		
+	}
 }

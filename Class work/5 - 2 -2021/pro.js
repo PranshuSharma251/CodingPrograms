@@ -1,0 +1,1 @@
+document.getElementById('ye').innerHTML = "Hello kida";
