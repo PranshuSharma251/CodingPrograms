@@ -11,7 +11,7 @@ if(num>1000000){
 if(num < 20){
 alert(ones[num])
 }else if(num < 100){
-	let t = Math.floor(num/10);
+	let t = Math.floor(num/10);s
 	let o = num%10;
 alert(tens[t]+" "+	ones[o]);
 }else if(num < 1000){
